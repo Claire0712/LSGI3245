@@ -19,7 +19,7 @@
 
 仓库地址：https://github.com/Claire0712/LSGI3245
 
-本仓库为私有仓库。组员先将 GitHub 用户名提供给仓库管理员，由管理员在仓库 **Settings → Collaborators** 中添加成员。接受邀请后即可克隆仓库并推送自己的分支。
+本仓库为公开仓库，任何人都可以查看和克隆。需要直接推送分支的组员，请先将 GitHub 用户名提供给仓库管理员，由管理员在仓库 **Settings → Collaborators** 中添加成员。接受邀请后即可推送自己的分支；未加入协作者的用户也可以 Fork 仓库后提交 Pull Request。
 
 ```bash
 git clone https://github.com/Claire0712/LSGI3245.git
