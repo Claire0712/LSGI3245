@@ -1,0 +1,39 @@
+{
+  "upstream_commit": "4eec86309bfb3358764ed715fc6f380c46668ba6",
+  "upstream_package": "Group_Project/LSGI3245_shr_Part_D.zip",
+  "note": "Reused D English snapshots; not independently downloaded from CSDI. Retrieval dates and original archive hashes are reported by D.",
+  "sources": [
+    {
+      "short_code": "badminton",
+      "facility_type": "Badminton Courts",
+      "dataset_id": "lcsd_rcd_1629267205214_38344",
+      "provider": "LCSD",
+      "retrieval_date_hkt": "2026-11-03",
+      "metadata_url": "https://portal.csdi.gov.hk/csdi-webpage/metadata/lcsd_rcd_1629267205214_38344/html",
+      "csv_download_url": "https://static.csdi.gov.hk/csdi-webpage/download/common/a3e32703c26e6e9698a235c80e935e58a3d8bef0ab6571151adaccf7900bb749",
+      "archive_sha256": "84526b3052b605def5728467cd3b7e6d58756d5d0264d49e455e041b8cfe67ef",
+      "archive_member": "download_20260707_1447_geodatastore_converted.csv",
+      "original_csv_sha256": "34cce7128a28301b0f82b389ac5e92cf64552d4f6eb15cdce19225e481ee1a44",
+      "english_snapshot": "data/source_english/badminton.csv",
+      "english_sha256": "4f08348713983f9b74fd27f56438111cfdb5316be9c2062b593dd83438d54da4",
+      "source_rows": 116,
+      "note": "English columns selected; source values unchanged. Source archives retained outside the English submission package."
+    },
+    {
+      "short_code": "basketball",
+      "facility_type": "Basketball Courts",
+      "dataset_id": "lcsd_rcd_1629267205215_38105",
+      "provider": "LCSD",
+      "retrieval_date_hkt": "2026-11-03",
+      "metadata_url": "https://portal.csdi.gov.hk/csdi-webpage/metadata/lcsd_rcd_1629267205215_38105/html",
+      "csv_download_url": "https://static.csdi.gov.hk/csdi-webpage/download/common/376816707c1b372403e31bf36c25a6ab443ee09bcf8a01094f1ffb5004ff1cfc",
+      "archive_sha256": "23c47541718919a0c79fbb72d332f7f1f7f16bd99eaaa6d7925e490bf7efa190",
+      "archive_member": "download_20230327_1610_Basketball_Courts_geodatastore_converted.csv",
+      "original_csv_sha256": "4f09692b470aecd75fa48ed28e7a40d1dc1088cafdea081f9b22a0d5d08a9bde",
+      "english_snapshot": "data/source_english/basketball.csv",
+      "english_sha256": "608e9a26047f4e148c8cdc7a06edc7c1c86cc736e2258161ebd01a90bf4c166f",
+      "source_rows": 306,
+      "note": "English columns selected; source values unchanged. Source archives retained outside the English submission package."
+    }
+  ]
+}

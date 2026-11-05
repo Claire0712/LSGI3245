@@ -1,0 +1,13 @@
+{
+  "source": "Instructor-provided HKDistrict18 shapefile",
+  "crs": "EPSG:4326 (verified from the .prj file)",
+  "district_count": 18,
+  "invalid_geometries_repaired": 1,
+  "files": {
+    "HKDistrict18.cpg": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824",
+    "HKDistrict18.dbf": "150fdf6bd32650b9781ced0f77c4bb139eb4c06723c59480a269dcb578f59f9c",
+    "HKDistrict18.prj": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+    "HKDistrict18.shp": "ddb83a96cc600fd03d6db7c06d82c1f4ae1a8e2d9928413cb76dd5d9a4a0941f",
+    "HKDistrict18.shx": "d6eca9678cd39695ec18c7d4064a2ad0d6fa5f3aa3b7e53ceb0b8e988321f552"
+  }
+}

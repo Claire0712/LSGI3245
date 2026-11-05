@@ -1,0 +1,11 @@
+{
+  "input_hashes_verified": true,
+  "row_accounting_verified": true,
+  "source_ids_unique": true,
+  "accepted_records": 422,
+  "issue_counts": {
+    "COORDINATE_REVIEW": 144,
+    "DISTRICT_REVIEW": 2
+  },
+  "spatial_check_boundary": "D snapshot only; final C/B database validation pending"
+}
