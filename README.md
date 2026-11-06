@@ -7,6 +7,8 @@
 | 路径 | 内容 |
 | --- | --- |
 | `Group_Project/` | 小组项目说明与分工资料；项目成果也统一放在此目录 |
+| `Group_Project/LSGI3245_C_Part.zip` | C 部分：设施清洗、`HK_Admin`、人口表、SQL、schema 与复现脚本 |
+| `Group_Project/LSGI3245_shr_Part_D.zip` | D 部分成果包 |
 | `Lecture/` | 课程讲义 |
 | `pastpaper/` | 历年试题资料 |
 | `code.py` | 当前为空的 Python 文件，尚未实现程序 |
